@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GalleryAPIWebApp2.props" />
+</Project>
